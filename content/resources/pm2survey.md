@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file includes the list of question for the assignment survey.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/dfc797f4e6b402f99d38196fc43116e9_pm2survey.pdf
+file: /media/courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/dfc797f4e6b402f99d38196fc43116e9_pm2survey.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pm2survey.pdf
 uid: dfc797f4-e6b4-02f9-9d38-196fc43116e9

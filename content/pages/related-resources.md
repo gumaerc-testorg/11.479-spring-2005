@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: f510be89-028f-c365-b423-a809a15ededd
 ---
@@ -28,7 +30,7 @@ Organizations
 *   [Global Hydrology Resource Center](https://ghrc.nsstc.nasa.gov/home/)
 *   [Global International Waters Assessment](http://yabaha.net/dahl/earthw/Pdepgiwa.htm)
 *   [Global Water Partnership](http://www.gwpforum.org/servlet/PSP)
-*   [InterWater](http://www.wsscc.org/) 
+*   [InterWater](https://interwater-eg.com/) 
 *   [The World's Water](http://www.worldwater.org/)
 *   [Water Environment Federation](http://www.wef.org/)
 *   [Water Quality Association](http://www.wqa.org/)

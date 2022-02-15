@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file includes tips for writing an effective policy memo.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/2d9182fab8fde45afe90ac752bddbb60_pmwriting.pdf
+file: /media/courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/2d9182fab8fde45afe90ac752bddbb60_pmwriting.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pmwriting.pdf
 uid: 2d9182fa-b8fd-e45a-fe90-ac752bddbb60
