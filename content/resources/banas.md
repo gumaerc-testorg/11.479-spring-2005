@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5fa7bfa9-6143-64d1-7546-0da9bb2692f9
 resourcetype: Document
 title: banas.pdf
 uid: 795608cd-ab59-8866-4243-18c5df50706c

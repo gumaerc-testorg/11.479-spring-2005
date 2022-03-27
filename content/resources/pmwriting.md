@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5fa7bfa9-6143-64d1-7546-0da9bb2692f9
 resourcetype: Document
 title: pmwriting.pdf
 uid: 2d9182fa-b8fd-e45a-fe90-ac752bddbb60

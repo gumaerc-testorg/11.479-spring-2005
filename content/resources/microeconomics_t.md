@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 069ecefb-e481-c5db-a185-29c1bc47738c
 resourcetype: Document
 title: microeconomics_t.pdf
 uid: 16eb263c-826d-8991-d8a7-f4a49c6f3dd8

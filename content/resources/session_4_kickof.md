@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 069ecefb-e481-c5db-a185-29c1bc47738c
 resourcetype: Document
 title: session_4_kickof.pdf
 uid: e66204a1-8cb1-c395-bb74-78f181722f54
