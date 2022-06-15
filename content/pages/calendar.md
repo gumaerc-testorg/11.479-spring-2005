@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar provides information on the lecture topics covered in the
+  course and the key dates of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
