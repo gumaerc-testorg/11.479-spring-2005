@@ -7,6 +7,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: assn9.pdf
 uid: 8018963d-840f-187b-2589-47e3fbb2d0ea
 ---
 This file includes questions on the frequent disconnect between institutions responsible for W&S planning in communities and those responsible for environmental management.
-

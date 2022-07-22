@@ -5,6 +5,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pmwriting.pdf
 uid: 2d9182fa-b8fd-e45a-fe90-ac752bddbb60
 ---
 This file includes tips for writing an effective policy memo.
-

@@ -7,6 +7,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: session_6.pdf
 uid: dbeb700c-a956-cf84-adc5-dca90c5829f0
 ---
 This file explains women as a unique stakeholder group, the "right" institutional arrangement for W&S service delivery, and options for service delivery (centralized versus decentralized, the public-private continuum).
-

@@ -7,6 +7,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: banas.pdf
 uid: 795608cd-ab59-8866-4243-18c5df50706c
 ---
 This file propose a plan for implementing community-driven water projects, with the suggested application being public water taps that are financed on an ability-to-pay, per jerrican basis.
-

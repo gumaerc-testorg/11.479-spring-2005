@@ -6,6 +6,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn4.pdf
 uid: a5baf2a6-325b-04b4-e0b1-43898a2921e3
 ---
 This file includes questions which deal with the advantages and challenges of community participation in W&S projects.
-

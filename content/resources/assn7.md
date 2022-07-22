@@ -5,6 +5,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn7.pdf
 uid: 873aeeef-1ade-71a8-c059-f882396e6109
 ---
 This file includes questions on objectives to meet with W&S service pricing.
-

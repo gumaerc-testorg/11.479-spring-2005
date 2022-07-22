@@ -7,6 +7,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: pm2background.pdf
 uid: 6397d138-e682-c9ee-7e3f-9e98f6da434f
 ---
 This file is the case study written by the professor of Massachusetts Institute of Technology and the lecturer in Public Policy at the Kennedy School of Government.
-

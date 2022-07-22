@@ -7,6 +7,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: session_5_kickof.pdf
 uid: 7c4029c3-0ac6-b14d-cac9-9d4046f41620
 ---
 This file contains information on what the millennium development goals are, how ambitious (realistic) are the goals, what the UN's plan for achieving the MDGs is, can the goals be met, what the obstacles are, and how can we tackle them?
-

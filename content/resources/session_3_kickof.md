@@ -5,6 +5,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: session_3_kickof.pdf
 uid: bbe47448-8a49-2746-184c-c836a777d18f
 ---
 This file explains defining and measuring access to improved services.
-

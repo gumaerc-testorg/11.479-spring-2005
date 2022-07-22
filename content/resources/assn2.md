@@ -7,6 +7,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: assn2.pdf
 uid: 5bc169b4-93d3-b4d5-f761-175f3c617c59
 ---
 This file includes question on expectations from a W&S service provider, W&S service delivery, prior expectations, and private-sector participation in W&S services.
-

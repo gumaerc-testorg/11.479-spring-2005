@@ -8,6 +8,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: session_4_kickof.pdf
 uid: e66204a1-8cb1-c395-bb74-78f181722f54
 ---
 This file contains the review of the public health, environmental, and economic goals of improving W&S services, some reasons why, despite these many benefits, W&S services don't always "compete" well alongside other planning and investment priorities.
-

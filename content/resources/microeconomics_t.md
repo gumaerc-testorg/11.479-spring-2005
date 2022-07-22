@@ -6,6 +6,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: microeconomics_t.pdf
 uid: 16eb263c-826d-8991-d8a7-f4a49c6f3dd8
 ---
 This file explains how to allocate scarce resources, goods, and services among alternative uses.
-

@@ -7,6 +7,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: brown.pdf
 uid: 22e271d2-40ff-7782-6719-46f82bd49915
 ---
 This file is a proposal which recommends that the town consider a low-cost, no-technology education program to raise awareness around the health benefits of proper hygiene.
-

@@ -6,6 +6,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: session_7.pdf
 uid: d35eb430-b9a8-aceb-54d5-3853d4396215
 ---
 This file includes the topics which provide an opportunity to apply learning to a 'real world' case in the form of planning recommendations.
-

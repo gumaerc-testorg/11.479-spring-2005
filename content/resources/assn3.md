@@ -6,6 +6,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn3.pdf
 uid: 0c474d35-9665-64f2-cf3c-6b9bdffab977
 ---
 This file includes questions on effective W&S planning i.e. demand-responsive planning, which should respond to the felt needs and preferences of users.
-

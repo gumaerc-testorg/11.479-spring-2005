@@ -7,6 +7,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: krukswisner.pdf
 uid: 3ac237b5-5cea-21c1-8fc1-36b8a20f007d
 ---
 This file provides information on the proposal for the establishment of an elected W&S board that will represent the needs of different groups of water users in the town.
-

@@ -7,6 +7,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: pm2.pdf
 uid: 8a8744cb-33fa-df23-33a0-13bd543bf620
 ---
 This file provides information on the assignment to review the background case study and to draft a policy memo to lay out recommendations for the best approach to a private-sector concession in Hyderabad.
-

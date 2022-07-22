@@ -5,6 +5,7 @@ file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pm2survey.pdf
 uid: dfc797f4-e6b4-02f9-9d38-196fc43116e9
 ---
 This file includes the list of question for the assignment survey.
-
