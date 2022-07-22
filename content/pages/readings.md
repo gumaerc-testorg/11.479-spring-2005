@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This readings section provides information on the assigned readings for
+  the lectures in the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: acfaad7a-f13b-232b-47c3-15eb3817ac9b
 ---
@@ -38,7 +43,7 @@ Problem Identification
 {{< tdopen >}}
 
 
-"What will it take? Water, Sanitation, and the Millennium Development Goals." Abridged Final Report of the United Nations Millennium Project's Task Force on Water and Sanitation. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](http://www.oecd.org/dac/gender-development/45604012.pdf))
+"What will it take? Water, Sanitation, and the Millennium Development Goals." Abridged Final Report of the United Nations Millennium Project's Task Force on Water and Sanitation. ([PDF - 1.3MB](http://www.oecd.org/dac/gender-development/45604012.pdf))
 
 World Health Organization and UNICEF. _Global Water Supply and Sanitation Assessment_. Excerpts, 2000.
 
@@ -280,7 +285,7 @@ Boland, J., and D. Whittington. "[The Political Economy of Increasing Block Tari
 
 UNDP-World Bank Water and Sanitation Program. "Willing to Pay but Unwilling to Charge." Field Note, June 1999. ([PDF - 5.2 MB](http://documents.worldbank.org/curated/en/119381468042257913/pdf/multi0page.pdf))
 
-DeMoor, Andre. "Stalking the Elusive Subsidy (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.cbd.int/doc/case-studies/inc/cs-inc-earthcouncil-unsustainable-en.pdf))," and "Water, Water Everywhere ([PDF](https://www.cbd.int/doc/case-studies/inc/cs-inc-earthcouncil-unsustainable-en.pdf))." In _Subsidizing Unsustainable Development: Undermining the Earth with Public Funds_. San Jose, Costa Rica: Earth Council, 1997. ISBN: 0968184405.
+DeMoor, Andre. "Stalking the Elusive Subsidy ([PDF](https://www.cbd.int/doc/case-studies/inc/cs-inc-earthcouncil-unsustainable-en.pdf))," and "Water, Water Everywhere ([PDF](https://www.cbd.int/doc/case-studies/inc/cs-inc-earthcouncil-unsustainable-en.pdf))." In _Subsidizing Unsustainable Development: Undermining the Earth with Public Funds_. San Jose, Costa Rica: Earth Council, 1997. ISBN: 0968184405.
 
 
 {{< tdclose >}}

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This lecture notes section provides information on lecture topics with
+  corresponding PDFs to some of the lectures.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 069ecefb-e481-c5db-a185-29c1bc47738c
 ---
@@ -60,7 +65,7 @@ An Introduction to Water Supply and Sanitation Technologies: Guest Speaker: Prof
 How to Define and Measure Access to Water Supply and Sanitation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session_3_kickof))
+({{% resource_link bbe47448-8a49-2746-184c-c836a777d18f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +77,7 @@ How to Define and Measure Access to Water Supply and Sanitation
 Goals of W&S Investment: Human Health and Productivity Gains, the Environment
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session_4_kickof))
+({{% resource_link e66204a1-8cb1-c395-bb74-78f181722f54 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +89,7 @@ Goals of W&S Investment: Human Health and Productivity Gains, the Environment
 The Millennium Development Goals for Water and Sanitation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7 MB]({{< baseurl >}}/resources/session_5_kickof))
+({{% resource_link 7c4029c3-0ac6-b14d-cac9-9d4046f41620 "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,9 +103,9 @@ Stakeholder Analysis: Actors in Water and Sanitation Infrastructure Planning and
 {{< tdopen >}}
 
 
-Notes ([PDF]({{< baseurl >}}/resources/session_6))
+Notes ({{% resource_link dbeb700c-a956-cf84-adc5-dca90c5829f0 "PDF" %}})
 
-Microeconomics Tutorial ([PDF]({{< baseurl >}}/resources/microeconomics_t))
+Microeconomics Tutorial ({{% resource_link 16eb263c-826d-8991-d8a7-f4a49c6f3dd8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -114,7 +119,7 @@ Microeconomics Tutorial ([PDF]({{< baseurl >}}/resources/microeconomics_t))
 Institutional Options for W&S Planning and Policy in Developing Countries: Decentralization, Community Management, Privatization, etc.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session_7))
+({{% resource_link d35eb430-b9a8-aceb-54d5-3853d4396215 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

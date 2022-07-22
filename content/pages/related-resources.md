@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This related resources section provides additional links on the following
+  topics:  Water, sanitation, and health, history of W&S services, organizations,
+  planning and policy topics, case studies, facts and figures, and W&S global overview.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: f510be89-028f-c365-b423-a809a15ededd
 ---
@@ -28,7 +33,7 @@ Organizations
 *   [Global Hydrology Resource Center](https://ghrc.nsstc.nasa.gov/home/)
 *   [Global International Waters Assessment](http://yabaha.net/dahl/earthw/Pdepgiwa.htm)
 *   [Global Water Partnership](http://www.gwpforum.org/servlet/PSP)
-*   [InterWater](http://www.wsscc.org/) 
+*   [InterWater](https://interwater-eg.com/) 
 *   [The World's Water](http://www.worldwater.org/)
 *   [Water Environment Federation](http://www.wef.org/)
 *   [Water Quality Association](http://www.wqa.org/)
@@ -69,7 +74,7 @@ Organizations
 
 ### Technologies
 
-*   On-Plot Sanitation in Low-Income Urban Communities (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/61-on-plot-sanitation-in-urban-areas.pdf))
+*   On-Plot Sanitation in Low-Income Urban Communities ([PDF](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/61-on-plot-sanitation-in-urban-areas.pdf))
 
 ### Urban Water Supply
 
@@ -77,7 +82,7 @@ Organizations
 *   [Mega Slums: The Coming Sanitary Crisis](https://www.ircwash.org/resources/mega-slums-coming-sanitary-crisis)
 *   On-Plot Sanitation in Low-Income Urban Communities (DFID) ([PDF](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/61-on-plot-sanitation-in-urban-areas.pdf))
 *   [Sewerage and Sanitation in Jakarta and Manila (WB)](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/880091468095971513/sewerage-and-sanitation-jakarta-and-manila)
-*   Sanitation Service for the Urban Poor in Jamaica (case study) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.bvsde.paho.org/bvsacd/ehp/lxviii.pdf))
+*   Sanitation Service for the Urban Poor in Jamaica (case study) ([PDF](http://www.bvsde.paho.org/bvsacd/ehp/lxviii.pdf))
 *   [Groundwater: Information on Sources of Groundwater, Contamination, etc.](http://www.tgpc.state.tx.us/groundwater-contamination/)
 
 ### Privatization
