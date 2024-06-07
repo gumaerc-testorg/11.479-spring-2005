@@ -3,6 +3,7 @@ content_type: resource
 description: This file includes question on the advantages and challenges of community
   participation in W&S projects.
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/9468bf092f2596a01e28d95424319375_assn6.pdf
+file_size: 10384
 file_type: application/pdf
 learning_resource_types:
 - Assignments
