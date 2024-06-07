@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains assignment for designing a W&S project.
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/57ad88168c5a52837c97627e1b3c6af9_assn1.pdf
+file_size: 8556
 file_type: application/pdf
 learning_resource_types:
 - Assignments

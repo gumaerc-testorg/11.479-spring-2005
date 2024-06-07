@@ -4,6 +4,7 @@ description: This file includes questions on the frequent disconnect between ins
   responsible for W&S planning in communities and those responsible for environmental
   management.
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/8018963d840f187b258947e3fbb2d0ea_assn9.pdf
+file_size: 9453
 file_type: application/pdf
 learning_resource_types:
 - Assignments
