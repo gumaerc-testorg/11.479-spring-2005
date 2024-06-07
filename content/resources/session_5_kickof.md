@@ -4,6 +4,7 @@ description: This file contains information on what the millennium development g
   are, how ambitious (realistic) are the goals, what the UN's plan for achieving the
   MDGs is, can the goals be met, what the obstacles are, and how can we tackle them?
 file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/7c4029c30ac6b14dcac99d4046f41620_session_5_kickof.pdf
+file_size: 1747167
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
