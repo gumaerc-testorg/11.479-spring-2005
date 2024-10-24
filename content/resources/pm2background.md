@@ -3,7 +3,7 @@ content_type: resource
 description: This file is the case study written by the professor of Massachusetts
   Institute of Technology and the lecturer in Public Policy at the Kennedy School
   of Government.
-file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/6397d138e682c9ee7e3f9e98f6da434f_pm2background.pdf
+file: /ol-ocw-studio-app/courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/6397d138e682c9ee7e3f9e98f6da434f_pm2background.pdf
 file_size: 581407
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file provides the information about the proposal which is primarily
   based on a consultant's report produced for the ministry in 1997.
-file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/c12c2bc121389ffcfe505204b21d4e8f_chan.pdf
+file: /ol-ocw-studio-app/courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/c12c2bc121389ffcfe505204b21d4e8f_chan.pdf
 file_size: 133566
 file_type: application/pdf
 learning_resource_types:
