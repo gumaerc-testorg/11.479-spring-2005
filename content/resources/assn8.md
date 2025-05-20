@@ -3,7 +3,7 @@ content_type: resource
 description: This file includes the questions on objectives that developing countries
   and donors seek when advocating for greater private-sector participation in the
   W&S sector.
-file: /ol-ocw-studio-app/courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/e3803b2f15d0e82d01cc3a714d1bbd82_assn8.pdf
+file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/e3803b2f15d0e82d01cc3a714d1bbd82_assn8.pdf
 file_size: 9667
 file_type: application/pdf
 learning_resource_types:
