@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes questions on the strategies to improve access to W&S
   services by poor households in urban areas.
-file: /courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/06be216b99ed0b358a203caa359bf315_assn5.pdf
+file: /ol-ocw-studio-app/courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/06be216b99ed0b358a203caa359bf315_assn5.pdf
 file_size: 9959
 file_type: application/pdf
 learning_resource_types:
